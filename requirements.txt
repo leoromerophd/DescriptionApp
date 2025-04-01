@@ -1,5 +1,5 @@
 plotly==5.18.0
 protobuf==6.30.2
-streamlit==1.39.0
+streamlit
 yfinance==0.2.54
 genai==2.1.0
