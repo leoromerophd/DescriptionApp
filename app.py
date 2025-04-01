@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 ###########################################################
-tokenGenAI = "AIzaSyDZjMVo9-ViYTYmSN5zv3OX_AYr534yAoo"
+
 client = genai.Client(api_key=tokenGenAI)
 ###########################################################
 
